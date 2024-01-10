@@ -29,8 +29,7 @@ main {
 
 section#login {
     background-color: white;
-    width: 250px;
-    height: 540px;
+    width: 90%;
     border-radius: 20px;
     overflow: hidden;
     position: absolute;
